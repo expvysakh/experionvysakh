@@ -6,7 +6,6 @@ public class factorial
  
    public static void main()
    {
-      
       System.out.println("Enter the number: ");
       i=integer.parseInt(System.in);
       fact=factorial.facto(i);
